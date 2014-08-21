@@ -1,0 +1,55 @@
+h1
+{
+	font-weight: bold;
+	color: #3399FF;
+}
+h2
+{
+	font-style: italic;
+	color: #9999FF;
+}
+
+p 
+{ font-size: 14px;
+line-height: 1.25em;
+
+}
+
+#title
+{
+	font-size: 400%;
+	color: #CCFFFF;
+	background: #9999FF;
+	font-family: impact;
+}
+
+
+#link 
+{
+	color: #6699CC;
+	text-decoration: none;
+	font-size:120%;
+	border-bottom: 5px solid black;
+
+}
+
+a:visited
+{
+	color:9966CC;
+	text-decoration: underline;
+	font-size:120%;
+}
+
+
+#why-pillows
+{
+
+	border-bottom: 5px solid black ;
+}
+
+#fun
+{
+	color: #3399FF;
+	font-size: 200%;
+	border-bottom: 5px solid black;
+}
